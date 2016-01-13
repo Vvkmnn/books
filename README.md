@@ -1,7 +1,7 @@
 # Books
 
 
-A collection of books & resources I've enjoyed using. Feel free to explore/recycle/pull as you like. All code included here is my own interpretation, and in no way reflects the authors or works used.  
+A collection of books & resources I've enjoyed using. Feel free to explore/recycle/pull as you like. All code included here is my own interpretation, and should in no way reflect on the authors & works used.  
 
 
 ## Python
