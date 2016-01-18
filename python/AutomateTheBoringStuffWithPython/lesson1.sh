@@ -9,9 +9,6 @@ brew tap caskroom/cask
 
 brew cask install python3
 
-# Setup an IDE (Atom or Jupyter)
+# Setup an IDE (Atom)
 
 brew cask install atom
-
-# Setup Jupyter for notebooks
-brew cask install Jupyter
