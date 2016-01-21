@@ -19,10 +19,6 @@ By Matthew A. Russell.
 
 An updating clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition). Available as a [book](http://bit.ly/135dHfs), a [website](http://MiningTheSocialWeb.com), and as a [virtual machine.](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix A - Virtual Machine Experience.html)
 
-#### Data Science IPython Notebooks
-
-An updating clone of [this amazing Github repository](https://bit.ly/data-notes) maintained by Donne Martin et al. If it's a package that has anything to do with Data Science, chances are its probably illustrated in here with beautiful, interactive [Jupyter](http://jupyter.org/) notebooks, viewable directly on Github.
-
 ## License
 
 Licensed under [Creative Commons](https://creativecommons.org/licenses/).
