@@ -4,3 +4,6 @@
 [submodule "python/DataScienceNotebooks"]
 	path = python/DataScienceNotebooks
 	url = git@github.com:donnemartin/data-science-ipython-notebooks.git
+[submodule "python/DataScienceFromScratch"]
+	path = python/DataScienceFromScratch
+	url = git@github.com:joelgrus/data-science-from-scratch.git

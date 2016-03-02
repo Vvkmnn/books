@@ -1,7 +1,7 @@
 # Books
 
 
-A collection of books & resources I've enjoyed using. Feel free to explore/recycle/pull as you like. All code included here is my own interpretation, and should in no way reflect on the authors & works used.  
+A collection of books & resources I've enjoyed exploring and often come back to. All code included here is my own interpretation unless otherwise stated, and should in no way reflect on the authors & works used.  
 
 
 ## Python
@@ -25,7 +25,12 @@ By Matthew A. Russell.
 
 A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition). Available as a [book](http://bit.ly/135dHfs), a [website](http://MiningTheSocialWeb.com), and as a [virtual machine.](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix A - Virtual Machine Experience.html)
 
+#### [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
+
+By Joel Grus
+
+A clone of supplemental matterials for [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch) by Joel Grus. It is part of the 'O'Reilly' family, and is a the closest I've come to a [Data Science Handbook](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/).
 
 ## License
 
-Licensed under [Creative Commons](https://creativecommons.org/licenses/).
+Licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
