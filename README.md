@@ -4,7 +4,7 @@ A collection of books & resources I've enjoyed exploring and often come back to.
 
 
 
-<img src="http://www.greenteapress.com/thinkbayes/think_bayes_cover_medium.png" alt="Drawing" style="float: right; width: 200px; "/>
+<img src="http://www.greenteapress.com/thinkbayes/think_bayes_cover_medium.png" alt="Drawing" align= "right" style="float;width:200px;"" "/>
 ### [Think Bayes](https://github.com/Vvkmnn/books/tree/master/python/AutomateTheBoringStuffWithPython)
 
   By Allen Downey (Repurposed from [Roger Labbe](https://github.com/rlabbe)).
