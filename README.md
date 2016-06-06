@@ -11,6 +11,10 @@ A collection of books & resources I've enjoyed exploring and often come back to.
 
 An interactive take on Allen Downey's excellent primer on Bayesian Statistics, using some Python examples. His [work](http://greenteapress.com/wp/think-bayes/) is available as a [book](http://www.amazon.com/gp/product/1449370780/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449370780&linkCode=as2&tag=greenteapre01-20), a [LaTeX file](https://github.com/AllenDowney/ThinkBayes/blob/master/book/book.tex) with supporting code in his [Github Repository](https://github.com/AllenDowney/ThinkBayes2), and for free [online](http://www.greenteapress.com/thinkbayes/html/index.html). I have borrowed an amazing [interactive Jupyter notebook version](https://github.com/rlabbe/ThinkBayes) created by [Roger Labbe](https://github.com/rlabbe) to append with my own learning.
 
+--
+
+
+
 ### [Automate The Boring Stuff with Python](https://github.com/Vvkmnn/books/tree/master/python/AutomateTheBoringStuffWithPython)
 
   By Allen Sweigart.
