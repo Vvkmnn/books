@@ -1,0 +1,9 @@
+[submodule "DataScienceFromScratch"]
+	path = DataScienceFromScratch
+	url = git@github.com:joelgrus/data-science-from-scratch.git
+[submodule "DataScienceNotebooks"]
+	path = DataScienceNotebooks
+	url = git@github.com:donnemartin/data-science-ipython-notebooks.git
+[submodule "MiningTheSocialWeb"]
+	path = MiningTheSocialWeb
+	url = git@github.com:ptwobrussell/Mining-the-Social-Web-2nd-Edition.git
