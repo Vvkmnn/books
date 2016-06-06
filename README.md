@@ -6,7 +6,7 @@ All code included here is my own interpretation unless otherwise stated, and sho
 
 
 
-### [Think Bayes](https://github.com/Vvkmnn/books/tree/master/python/AutomateTheBoringStuffWithPython)
+### [Think Bayes](https://github.com/Vvkmnn/books/tree/master/ThinkBayes)
 <img align="right" src="http://www.greenteapress.com/thinkbayes/think_bayes_cover_medium.png" width="150"/>
 
   By Allen Downey (Repurposed from Roger Labbe)
@@ -19,7 +19,7 @@ An interactive take on Allen Downey's excellent primer on Bayesian Statistics, u
 <br />
 <br />
 <br />
-### [Automate The Boring Stuff with Python](https://github.com/Vvkmnn/books/tree/master/python/AutomateTheBoringStuffWithPython)
+### [Automate The Boring Stuff with Python](https://github.com/Vvkmnn/books/tree/master/AutomateTheBoringStuffWithPython)
 <img align="right" src="https://images-na.ssl-images-amazon.com/images/I/51f0jmofBCL._SX376_BO1,204,203,200_.jpg" width="150"/>
 
   By Allen Sweigart
