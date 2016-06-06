@@ -7,3 +7,6 @@
 [submodule "python/DataScienceFromScratch"]
 	path = python/DataScienceFromScratch
 	url = git@github.com:joelgrus/data-science-from-scratch.git
+[submodule "ThinkBayes"]
+	path = ThinkBayes
+	url = https://github.com/rlabbe/ThinkBayes
