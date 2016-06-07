@@ -7,3 +7,6 @@
 [submodule "MiningTheSocialWeb"]
 	path = MiningTheSocialWeb
 	url = git@github.com:ptwobrussell/Mining-the-Social-Web-2nd-Edition.git
+[submodule "ThinkBayes"]
+	path = ThinkBayes
+	url = https://github.com/rlabbe/ThinkBayes.git
