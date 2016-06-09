@@ -1,6 +1,8 @@
 # Books
 
-These are a collection of books & resources I've enjoyed learning from and often come back to. All code included here is my own interpretation unless otherwise stated, and should in no way reflect on the authors & works used. I am thankful so many amazing authors have published their work using open source standards, and I have created this collection so they may provide as much value to the next student as it did to me.
+These are a collection of books & resources I've enjoyed learning from and often come back to.
+
+All code included here is my own interpretation unless otherwise stated, and should in no way reflect on the authors & works used. I am thankful to the amazing authors that published their work using open source standards, and I have created this collection so they may provide as much value to the next student as they did to me.
 
 
 <br />
