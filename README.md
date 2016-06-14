@@ -1,4 +1,5 @@
-# Books
+books
+======
 
 These are a collection of books & resources I've enjoyed learning from and often come back to.
 
