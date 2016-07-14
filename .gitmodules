@@ -10,3 +10,6 @@
 [submodule "ThinkBayes"]
 	path = ThinkBayes
 	url = https://github.com/rlabbe/ThinkBayes.git
+[submodule "GalvanizePrimer"]
+	path = GalvanizePrimer
+	url = https://github.com/zipfian/data-science-primer

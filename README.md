@@ -19,6 +19,13 @@ An interactive take on Allen Downey's excellent primer on Bayesian Statistics, u
 
 
 <br />
+### [Galvanize Data Science Primer](https://github.com/zipfian/data-science-primer)
+<img align="right" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/549197-45cfc0ff1f64116aceead7d4bdc1d6fc-medium_jpg.jpg?buster=1420650151" width="150"/>
+
+  Maintained by Zipfian
+
+An excellent collection of resources I recieved as part of my discussion with Galvanize about their awesome [data science bootcamp](http://www.galvanize.com/courses/data-science/#.V4aUq5MrLOQ). I am still working through these resources as part of my application.
+
 <br />
 <br />
 <br />
