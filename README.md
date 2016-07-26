@@ -43,7 +43,6 @@ My journey through Al Sweigart's fun and straightforward take on some Python. Hi
 <br />
 <br />
 <br />
-<br />
 ### [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
 <img align="right" src="http://joelgrus.com/images/dsfs.jpg" width="150"/>
 By Joel Grus
@@ -51,7 +50,6 @@ By Joel Grus
 A clone of supplemental materials for [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch) by Joel Grus. It is part of the venerable "O'Reilly" family, and is a the closest I've come to a [Data Science Handbook](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/).
 
 
-<br />
 <br />
 <br />
 <br />
@@ -63,6 +61,15 @@ A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/
 
 
 <br />
+<br />
+<br />
+### [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition)
+<img align="right" src="https://imagery.pragprog.com/products/241/dnvim.jpg?1334333219" width="150"/>
+By Drew Neil
+
+A series of exercises following [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition). Basically a group of arcane commands that let you take advantage of one of the most powerful (and occasionally tepmermental) text editors ever designed.
+
+
 <br />
 <br />
 <br />
