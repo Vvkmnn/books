@@ -64,10 +64,10 @@ A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/
 <br />
 <br />
 ### [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition)
-<img align="right" src="http://vimcasts.org/images/practical-vim/practical-vim-cover-550.jpg" width="150"/>
+<img align="right" src="https://images-na.ssl-images-amazon.com/images/I/417%2BxcRYtLL._SX258_BO1,204,203,200_.jpg" width="150"/>
 By Drew Neil
 
-A series of exercises following [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition). Basically a group of arcane commands that let you take advantage of one of the most powerful (and occasionally tepmermental) text editors ever designed.
+A series of exercises following [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition). Basically a group of arcane commands that let you take advantage of one of the most powerful (and occasionally tepmermental) text editors ever designed. I personally prefer using it via its [VimR](http://vimr.org/) incarnation, and I highly recommend it for macOS users.
 
 
 <br />
