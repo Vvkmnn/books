@@ -16,6 +16,7 @@ All code included here is my own interpretation unless otherwise referenced, and
 
 A hand made open-source curriculum for Data Science as designed by some of the best in the field. This is probably the single most important repository included in here, and I would highly recommend you start here if you haven't already gotten started with data science; it's where I did ([after the Coursera course from Andrew Ng blew my mind](https://www.coursera.org/learn/machine-learning)).
 
+
 <br />
 <br />
 <br />
@@ -25,6 +26,7 @@ A hand made open-source curriculum for Data Science as designed by some of the b
   Maintained by Zipfian
 
 An excellent collection of resources I recieved as part of my discussion with Galvanize about their awesome [data science bootcamp](http://www.galvanize.com/courses/data-science/#.V4aUq5MrLOQ).
+
 
 <br />
 <br />
@@ -36,6 +38,7 @@ An excellent collection of resources I recieved as part of my discussion with Ga
 
 A clone of the [Data Science iPython Notebooks Repository](https://github.com/donnemartin/data-science-ipython-notebooks). A continually updated collection of iPython/Jupyter notebooks on every subject from scikit-learn to AWS. Chances are if it's related to data science, there's a beautifully maintained notebook about it somewhere in here.
 
+
 <br />
 <br />
 <br />
@@ -46,6 +49,7 @@ A clone of the [Data Science iPython Notebooks Repository](https://github.com/do
 
 My journey through Al Sweigart's fun and straightforward take on some Python. His course is available as a [book](http://www.amazon.com/gp/product/1593275994/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275994&linkCode=as2&tag=playwithpyth-20&linkId=2KIYOE7RFLG7D2RJ), a video course on [Udemy](udemy.com/automate), and for free [online](https://automatetheboringstuff.com/). I'd consider this a 'Python 101' book, with the additional bonus of some very practical examples.
 
+
 <br />
 <br />
 <br />
@@ -54,18 +58,19 @@ My journey through Al Sweigart's fun and straightforward take on some Python. Hi
 
   By Allen Downey (Repurposed from Roger Labbe)
 
-
-
 An interactive take on Allen Downey's excellent primer on Bayesian Statistics, using some Python examples. His [work](http://greenteapress.com/wp/think-bayes/) is available as a [book](http://www.amazon.com/gp/product/1449370780/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449370780&linkCode=as2&tag=greenteapre01-20), a [LaTeX file](https://github.com/AllenDowney/ThinkBayes/blob/master/book/book.tex) with supporting code in his [Github Repository](https://github.com/AllenDowney/ThinkBayes2), and for free [online](http://www.greenteapress.com/thinkbayes/html/index.html). I have borrowed an amazing [interactive Jupyter notebook version](https://github.com/rlabbe/ThinkBayes) created by [Roger Labbe](https://github.com/rlabbe) to append with my own learning as I work through it. 
+
 
 <br />
 <br />
 <br />
 ### [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
 <img align="right" src="http://joelgrus.com/images/dsfs.jpg" width="150" border="1" style="border-color: black"/>
-By Joel Grus
+
+  By Joel Grus
 
 A clone of supplemental materials for [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch) by Joel Grus. It is part of the venerable "O'Reilly" family, and is a the closest I've come to a [Data Science Handbook](http://joelgrus.com/2015/04/26/data-science-from-scratch-first-principles-with-python/).
+
 
 <br />
 <br />
@@ -77,6 +82,7 @@ A clone of supplemental materials for [Data Science from Scratch](https://github
 
 A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition). Available as a [book](http://bit.ly/135dHfs), a [website](http://MiningTheSocialWeb.com), and as a [virtual machine.](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix A - Virtual Machine Experience.html) Easily some of the most practical recipes for dealing with social data, and the basis for a lot of my scripts at work.
 
+
 <br />
 <br />
 <br />
@@ -86,6 +92,7 @@ A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/
   By Chris Smith
 
 An introductory book on  [F#](http://fsharp.org/) that comes [highly recommended](https://www.quora.com/What-is-the-best-book-to-learn-F), and also provides a relatively friendly entry into the mysterious world of (functional programming)[https://en.wikipedia.org/wiki/Functional_programming#Python] which is basically like programming with just python `lambda` functions. 
+
 
 <br />
 <br />
