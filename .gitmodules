@@ -13,3 +13,6 @@
 [submodule "GalvanizePrimer"]
 	path = GalvanizePrimer
 	url = https://github.com/zipfian/data-science-primer
+[submodule "OpenSourceDataScienceMasters"]
+	path = OpenSourceDataScienceMasters
+	url = https://github.com/datasciencemasters/go
