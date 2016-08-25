@@ -16,3 +16,6 @@
 [submodule "OpenSourceDataScienceMasters"]
 	path = OpenSourceDataScienceMasters
 	url = https://github.com/datasciencemasters/go
+[submodule "ProgrammingFSharp"]
+	path = ProgrammingFSharp
+	url = https://github.com/achrissmith/Programming-FS-Examples/
