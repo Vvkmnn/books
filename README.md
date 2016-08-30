@@ -111,6 +111,16 @@ A clone of the [Data Science iPython Notebooks Repository](https://github.com/do
 <br><br><br><br>
 
 
+### [Torch Tutorials](https://github.com/torch/tutorials)
+<img align="right" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" width="150"  border="1" style="border-color: black"/>
+
+  Maintained By Torch
+
+A clone of the [Torch Tutorials](https://github.com/torch/tutorials) to better understand Torch, one of the most trusted ML framework currently out there. It has the benefits of being built on [Lua](https://www.lua.org/), a procedural scripting language that can be [generally understood in 15 minutes](http://tylerneylon.com/a/learn-lua/).  I discovered this repo by checking out it's [cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet), and hope to to start converting these into [iTorch notebooks](https://github.com/facebook/iTorch) pretty soon. 
+
+<br><br><br><br>
+
+
 ## License
 
 This repository is licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). This may not apply to all works included herein.
