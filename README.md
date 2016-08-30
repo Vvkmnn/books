@@ -6,7 +6,6 @@ These are a collection of books & resources I've enjoyed learning from and often
 All code included here is my own interpretation unless otherwise referenced, and should in no way reflect on the authors & works used. I am thankful to all these amazing people who took the time to publish such excellent materials; especially the ones who used open source standards. I have created this collection so they may can provide as much value to the next student as they did to me.
 
 
-
 <br><br><br><br>
 
 ### [Automate The Boring Stuff with Python](https://github.com/Vvkmnn/books/tree/master/AutomateTheBoringStuffWithPython)
@@ -41,7 +40,7 @@ A clone of supplemental materials for [Data Science from Scratch](https://github
 
   By Matthew A. Russell
 
-A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition). Available as a [book](http://bit.ly/135dHfs), a [website](http://MiningTheSocialWeb.com), and as a [virtual machine.](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix A - Virtual Machine Experience.html) Easily some of the most practical recipes for dealing with social data, and the basis for a lot of my scripts at work.
+A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition). Available as a [book](http://bit.ly/135dHfs), a [website](http://MiningTheSocialWeb.com), and as a [virtual machine.](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix A - Virtual Machine Experience.html) Easily some of the most practical recipes for dealing with social data, and the basis for a lot of my scripts at my current job.
 
 <br><br><br><br>
 
@@ -59,7 +58,16 @@ An introductory book on  [F#](http://fsharp.org/) that comes [highly recommended
 
   By Chris von Csefalvay
 
-An amazing [Gitbook](https://www.gitbook.com/) on [Julia](http://julialang.org/); a young but fascinating technical language built for scientific computing. It exists as a hybrid between OOP and FP principles, which allows it "write like Python but run like C" thanks to an incredible number of [under-the-hood optimizations from leaders in the field](http://www.evanmiller.org/why-im-betting-on-julia.html). It suffers slightly from its novelty, especially with regard to package support and availablity of novice-level documenation, but I fell in love with it as soon as I watched this [video of it in action](http://pyvideo.org/euroscipy-2014/keynote-crossing-language-barriers-with-julia-s.html), and I couldn't wait to get started. Big shout out to Chris for his amazing [repo](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) designed for "people who need to get a job done, not computer scientists".
+An amazing [Gitbook](https://www.gitbook.com/) on [Julia](http://julialang.org/); a young but fascinating technical language built for scientific computing. It exists as a hybrid between OOP and FP principles, which allows it "write like Python but run like C" thanks to an incredible number of [under-the-hood optimizations from leaders in the field](http://www.evanmiller.org/why-im-betting-on-julia.html). It suffers slightly from its novelty, especially with regard to package support and availablity of novice-level documenation (which is why many advocate against its use in production environment), but I fell in love with it as soon as I watched this [video of it in action](http://pyvideo.org/euroscipy-2014/keynote-crossing-language-barriers-with-julia-s.html), and I couldn't wait to get started. Big shout out to Chris for his amazing [repo](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) designed for "people who need to get a job done, not computer scientists".
+
+<br><br><br><br>
+
+### [TensorFlow for Machine Intelligence](https://github.com/backstopmedia/tensorflowbook)
+<img align="right" src="https://github.com/backstopmedia/tensorflowbook/raw/master/img/book_cover.jpg" width="150" border="1" style="border-color: black"/>
+
+  By Sam Abrahams et al.
+
+I found out about this book on [Reddit!](https://www.reddit.com/r/MachineLearning/comments/4tul9f/new_tensorflow_book_tensorflow_for_machine/) I've always been curious by [Tensorflow](https://www.tensorflow.org/), especially with its usage of the beautiful [TensorBoard](https://www.tensorflow.org/versions/r0.10/how_tos/summaries_and_tensorboard/index.html) capabilities, but I was told its previous iterations weren't quite [on the same level as other popular ML packages](http://www.kdnuggets.com/2015/11/google-tensorflow-deep-learning-disappoints.html). However, with a combination of open source principles and the sheer scale and support of Google, it has definitely become a force to be reckoned with. I also love reading the [Google Research Blog](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html), and I'm keen to play with the system presumably powering such fascinating insights; I can't wait to see it in action!
 
 <br><br><br><br>
 
@@ -88,7 +96,7 @@ A hand made open-source curriculum for Data Science as designed by some of the b
 
   Maintained by Zipfian
 
-An excellent collection of resources I recieved as part of my discussion with Galvanize about their awesome [data science bootcamp](http://www.galvanize.com/courses/data-science/#.V4aUq5MrLOQ).
+An excellent collection of resources I recieved as part of my acceptance into the awesome Galvanize [data science bootcamp](http://www.galvanize.com/courses/data-science/#.V4aUq5MrLOQ).
 
 <br><br><br><br>
 
