@@ -64,6 +64,15 @@ An amazing [Gitbook](https://www.gitbook.com/) on [Julia](http://julialang.org/)
 
 <br><br><br><br>
 
+### [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
+<img align="right" src="http://akamaicovers.oreilly.com/images/0636920032519/cat.gif" width="150"/>
+
+  By Luciano Ramalho
+
+If you [google 'Mastering Python'](http://lmgtfy.com/?q=mastering+python), I guarantee sooner or later you will run into this book. Heralded by many as one of the best end-to-end Python books around, I honestly cannot wait to get started with this book. Julia and R have become my personal favorites, there is just no denying the ease of use, modularity, and [sheer popularity of Python (especially in regards to Data Science)](https://www.fastcompany.com/3030716/the-9-best-languages-for-crunching-data), and I intend to do my best to improve my capabiliites in it. I have borrowed the [actual author's](https://github.com/ramalho) [notebook repo](https://github.com/fluentpython/notebooks) to append with my own learning, and I intend to start on this as soon as I can.
+
+<br><br><br><br>
+
 ### [TensorFlow for Machine Intelligence](https://github.com/backstopmedia/tensorflowbook)
 <img align="right" src="https://github.com/backstopmedia/tensorflowbook/raw/master/img/book_cover.jpg" width="150" border="1" style="border-color: black"/>
 
@@ -78,7 +87,7 @@ I found out about this book on [Reddit!](https://www.reddit.com/r/MachineLearnin
 
   By Drew Neil
 
-A series of exercises following [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition). Basically a group of arcane commands that let you take advantage of one of the most powerful (and occasionally tempermental) text editors ever designed. I personally prefer using it via its [VimR](http://vimr.org/) incarnation, and I highly recommend it for macOS users.
+A series of exercises following [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition). Basically a group of arcane commands that let you take advantage of one of the most powerful (and occasionally tempermental) text editors ever designed. I personally prefer using it via its [VimR](http://vimr.org/) incarnation, and I highly recommend it for macOS users. To be honest, I still use [Atom](https://atom.io/) whenever I can get away with it, but a friend of mine recommended at least a functional knowledge of it, for terminal only / server-side environments.
 
 <br><br><br><br>
 

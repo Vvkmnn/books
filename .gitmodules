@@ -16,3 +16,6 @@
 [submodule "TorchTutorial"]
 	path = TorchTutorial
 	url = https://github.com/torch/tutorials
+[submodule "FluentPython"]
+	path = FluentPython
+	url = https://github.com/fluentpython/notebooks
