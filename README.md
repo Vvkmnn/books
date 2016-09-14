@@ -1,9 +1,11 @@
 books
 ======
 
-These are a collection of books & resources I've enjoyed learning from and often come back to.
+These are a collection of books & resources I'm either in the process of reading, going to read, or have already read and love referencing.
 
-All code included here is my own interpretation unless otherwise referenced, and should in no way reflect on the authors & works used. I am thankful to all these amazing people who took the time to publish such excellent materials; especially the ones who used open source standards. I have created this collection so they may can provide as much value to the next student as they did to me.
+All code included here is my own interpretation unless otherwise stated, and should in no way reflect on the authors & works used.
+
+I am thankful to all these amazing people who took the time to publish such excellent materials; especially those who used open source standards. I have created this collection so they may can provide as much value to the next student as they did to me.
 
 
 <br><br><br><br>
@@ -45,7 +47,7 @@ A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/
 <br><br><br><br>
 
 ### [Programming F# 3.0](https://www.amazon.ca/Programming-F-3-0-Smith/dp/1449320295)
-<img align="right" src="https://images.contentreserve.com/ImageType-400/2858-1/546/CE2/7C/%7B546CE27C-29F9-45CD-B3CE-3C7BE93D2BCC%7DImg400.jpg" width="150"/>
+<img align="right" src="http://it-ebooks.info/images/ebooks/3/programming_f_3.0.jpg" width="150"/>
 
   By Chris Smith
 
@@ -116,7 +118,7 @@ A clone of the [Data Science iPython Notebooks Repository](https://github.com/do
 
   Maintained By Torch
 
-A clone of the [Torch Tutorials](https://github.com/torch/tutorials) to better understand Torch, one of the most trusted ML framework currently out there. It has the benefits of being built on [Lua](https://www.lua.org/), a procedural scripting language that can be [generally understood in 15 minutes](http://tylerneylon.com/a/learn-lua/).  I discovered this repo by checking out it's [cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet), and hope to to start converting these into [iTorch notebooks](https://github.com/facebook/iTorch) pretty soon. 
+A clone of the [Torch Tutorials](https://github.com/torch/tutorials) to better understand Torch, one of the most trusted ML framework currently out there. It has the benefits of being built on [Lua](https://www.lua.org/), a procedural scripting language that can be [generally understood in 15 minutes](http://tylerneylon.com/a/learn-lua/).  I discovered this repo by checking out it's [cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet), and hope to to start converting these into [iTorch notebooks](https://github.com/facebook/iTorch) pretty soon.
 
 <br><br><br><br>
 

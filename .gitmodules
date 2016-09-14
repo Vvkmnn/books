@@ -13,3 +13,6 @@
 [submodule "OpenSourceDataScienceMasters"]
 	path = OpenSourceDataScienceMasters
 	url = https://github.com/datasciencemasters/go
+[submodule "TorchTutorial"]
+	path = TorchTutorial
+	url = https://github.com/torch/tutorials
