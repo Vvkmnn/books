@@ -3,9 +3,7 @@ books
 
 These are a collection of books & resources I'm either in the process of reading, going to read, or have already read and love referencing.
 
-All code included here is my own interpretation unless otherwise stated, and should in no way reflect on the authors & works used.
-
-I am thankful to all these amazing people who took the time to publish such excellent materials; especially those who used open source standards. I have created this collection so they may can provide as much value to the next student as they did to me.
+All code included here is my own interpretation unless otherwise stated, and should in no way reflect on the authors & works used. I am grateful to all these amazing people who took the time to publish such excellent materials; especially those who used open source standards. I have created this collection so they may can provide as much value to the next student as they did to me.
 
 
 <br><br><br><br>
@@ -93,7 +91,7 @@ A series of exercises following [Practical Vim](https://pragprog.com/book/dnvim2
 
 
 ### [The Open Source Data Science Masters](https://github.com/datasciencemasters/go)
-<img align="right" src="http://b-i.forbesimg.com/gilpress/files/2013/05/Data_Science_VD.png" width="150" border="1" style="border-color: black"/>
+<img align="right" src="https://avatars3.githubusercontent.com/u/5228194?v=3&s=200" width="150" border="1" style="border-color: black"/>
 
   Maintained by Clare Corthell
 
