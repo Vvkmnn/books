@@ -19,3 +19,6 @@
 [submodule "FluentPython"]
 	path = FluentPython
 	url = https://github.com/fluentpython/notebooks
+[submodule "ProbabilisticPorgrammingAndBayesianMethods"]
+	path = ProbabilisticPorgrammingAndBayesianMethods
+	url = https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.git
