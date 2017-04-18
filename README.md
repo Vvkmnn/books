@@ -1,9 +1,9 @@
 books
 ======
 
-These are a collection of books & resources I'm either in the process of reading, going to read, or have already read and love referencing.
+These are a collection of books & resources I'm in the process of reading, intend on reading, or love reading again. 
 
-All code included here is my own interpretation unless otherwise stated, and should in no way reflect on the authors & works used. I am grateful to all these amazing people who took the time to publish such excellent materials; especially those who used open source standards. I have created this collection so they may can provide as much value to the next student as they did to me.
+All code included here is my own interpretation unless otherwise stated/linked, and should in no way reflect on the authors & works used. I am grateful to all these amazing people who took the time to publish such excellent materials; especially those who used open source standards. I have created this collection so they may can provide as much value to the next student as they did to me.
 
 
 <br><br><br><br>
@@ -13,7 +13,25 @@ All code included here is my own interpretation unless otherwise stated, and sho
 
   By Allen Sweigart
 
-My journey through Al Sweigart's fun and straightforward take on some Python. His course is available as a [book](http://www.amazon.com/gp/product/1593275994/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275994&linkCode=as2&tag=playwithpyth-20&linkId=2KIYOE7RFLG7D2RJ), a video course on [Udemy](udemy.com/automate), and for free [online](https://automatetheboringstuff.com/). I'd consider this a 'Python 101' book, with the additional bonus of some very practical examples.
+My journey through Al Sweigart's fun and straightforward take on some Python 3. His course is available as a [book](http://www.amazon.com/gp/product/1593275994/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275994&linkCode=as2&tag=playwithpyth-20&linkId=2KIYOE7RFLG7D2RJ), a video course on [Udemy](udemy.com/automate), and for free [online](https://automatetheboringstuff.com/). I'd consider this a 'Python 101' book, with the additional bonus of some very practical examples.
+
+<br><br><br><br>
+
+### [Mining the Social Web (2nd Edition)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
+<img align="right" src="https://s-media-cache-ak0.pinimg.com/236x/67/9d/14/679d14bee634bfbc7b442a66998df9a9.jpg" width="150" border="1" style="border-color: black"/>
+
+  By Matthew A. Russell
+
+A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition). Available as a [book](http://bit.ly/135dHfs), a [website](http://MiningTheSocialWeb.com), and as a [virtual machine.](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix A - Virtual Machine Experience.html) Easily some of the most practical recipes for dealing with social data, and the basis for a lot of my scripts at my current job.
+
+<br><br><br><br>
+
+### [Learn Julia the Hard Way](https://scls.gitbooks.io/ljthw/content/)
+<img align="right" src="http://i.imgur.com/5LYGZ05.png" width="150"/>
+
+  By Chris von Csefalvay
+
+An amazing [Gitbook](https://www.gitbook.com/) on [Julia](http://julialang.org/); a young but fascinating technical language built for scientific computing. It exists as a hybrid between OOP (Objected Oriented Programming) and FP (Functional Programming), which allows it "write like Python but run like C" thanks to an incredible number of [under-the-hood optimizations from leaders in the field](http://www.evanmiller.org/why-im-betting-on-julia.html). It suffers slightly from its novelty, especially with regard to package support and availablity of novice-level documenation (which is why many advocate against its use in production environment), but I fell in love with it as soon as I watched this [video of it in action](http://pyvideo.org/euroscipy-2014/keynote-crossing-language-barriers-with-julia-s.html), and I couldn't wait to get started. Big shout out to Chris for his amazing [repo](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) designed for "people who need to get a job done, not computer scientists".
 
 <br><br><br><br>
 
@@ -35,15 +53,6 @@ A clone of supplemental materials for [Data Science from Scratch](https://github
 
 <br><br><br><br>
 
-### [Mining the Social Web (2nd Edition)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
-<img align="right" src="https://s-media-cache-ak0.pinimg.com/236x/67/9d/14/679d14bee634bfbc7b442a66998df9a9.jpg" width="150" border="1" style="border-color: black"/>
-
-  By Matthew A. Russell
-
-A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition). Available as a [book](http://bit.ly/135dHfs), a [website](http://MiningTheSocialWeb.com), and as a [virtual machine.](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix A - Virtual Machine Experience.html) Easily some of the most practical recipes for dealing with social data, and the basis for a lot of my scripts at my current job.
-
-<br><br><br><br>
-
 ### [Programming F# 3.0](https://www.amazon.ca/Programming-F-3-0-Smith/dp/1449320295)
 <img align="right" src="http://it-ebooks.info/images/ebooks/3/programming_f_3.0.jpg" width="150"/>
 
@@ -53,21 +62,12 @@ An introductory book on  [F#](http://fsharp.org/) that comes [highly recommended
 
 <br><br><br><br>
 
-### [Learn Julia the Hard Way](https://scls.gitbooks.io/ljthw/content/)
-<img align="right" src="http://i.imgur.com/5LYGZ05.png" width="150"/>
-
-  By Chris von Csefalvay
-
-An amazing [Gitbook](https://www.gitbook.com/) on [Julia](http://julialang.org/); a young but fascinating technical language built for scientific computing. It exists as a hybrid between OOP and FP principles, which allows it "write like Python but run like C" thanks to an incredible number of [under-the-hood optimizations from leaders in the field](http://www.evanmiller.org/why-im-betting-on-julia.html). It suffers slightly from its novelty, especially with regard to package support and availablity of novice-level documenation (which is why many advocate against its use in production environment), but I fell in love with it as soon as I watched this [video of it in action](http://pyvideo.org/euroscipy-2014/keynote-crossing-language-barriers-with-julia-s.html), and I couldn't wait to get started. Big shout out to Chris for his amazing [repo](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) designed for "people who need to get a job done, not computer scientists".
-
-<br><br><br><br>
-
 ### [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
 <img align="right" src="http://akamaicovers.oreilly.com/images/0636920032519/cat.gif" width="150"/>
 
   By Luciano Ramalho
 
-If you [google 'Mastering Python'](http://lmgtfy.com/?q=mastering+python), I guarantee sooner or later you will run into this book. Heralded by many as one of the best end-to-end Python books around, I honestly cannot wait to get started with this book. Julia and R have become my personal favorites, there is just no denying the ease of use, modularity, and [sheer popularity of Python (especially in regards to Data Science)](https://www.fastcompany.com/3030716/the-9-best-languages-for-crunching-data), and I intend to do my best to improve my capabiliites in it. I have borrowed the [actual author's](https://github.com/ramalho) [notebook repo](https://github.com/fluentpython/notebooks) to append with my own learning, and I intend to start on this as soon as I can.
+If you [google 'Mastering Python'](http://lmgtfy.com/?q=mastering+python), I guarantee sooner or later you will run into this book. Heralded by many as one of the best end-to-end Python books around, I honestly cannot wait to get started with this book. Julia and R have become my personal favorites, but there is just no denying the ease of use, modularity, and [sheer popularity of Python (especially in regards to Data Science)](https://www.fastcompany.com/3030716/the-9-best-languages-for-crunching-data). I have borrowed the [actual author's](https://github.com/ramalho) [notebook repo](https://github.com/fluentpython/notebooks) to append with my own learning, and I intend to start on this as soon as I can.
 
 <br><br><br><br>
 
