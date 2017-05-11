@@ -8,6 +8,14 @@ All code included here is my own interpretation unless otherwise stated/linked, 
 
 <br><br><br><br>
 
+### [Artifical Intelligence A Modern Approach](https://github.com/aimacode)
+<img align="right" src="http://aima.cs.berkeley.edu/cover.jpg" width="150" border="1" style="border-color: black"/>
+
+  By Stuart Russell and Peter Norvig
+
+[The leading textbook in Artifical Intelligence](http://aima.cs.berkeley.edu). I was introduced to this text via the [Udacity AIND Program](https://www.udacity.com/ai) and everytime I open it I am fascinated and humbled. If there is one resource from this list I could whole heartedly recommend to anyone, it would be this one; no matter what you do, I guarantee there is something in this 1152 page tome that could help you approach it in a more logical way. It also comes in [multiple flavors](https://github.com/aimacode) for whatever language you're most comfortable with. 
+
+<br><br><br><br>
 ### [Automate The Boring Stuff with Python](https://github.com/Vvkmnn/books/tree/master/AutomateTheBoringStuffWithPython)
 <img align="right" src="https://images-na.ssl-images-amazon.com/images/I/51f0jmofBCL._SX376_BO1,204,203,200_.jpg" width="150" border="1" style="border-color: black"/>
 
@@ -129,6 +137,14 @@ A clone of the [Torch Tutorials](https://github.com/torch/tutorials) to better u
 
 <br><br><br><br>
 
+### [Udacity Deep Learning](https://www.udacity.com)
+<img align="right" src="https://pbs.twimg.com/profile_images/703090165976162305/XU5nh5a9.jpg" width="150"  border="1" style="border-color: black"/>
+
+  Maintained By Udacity
+
+A subset of some of the Udacity tutorials I have leveraged as part of my journey through their material. Udacity is an excellent resource for a variety of disciplines (especially anything Data Science related) and I am glad I got the opportunity to leverage them. 
+
+<br><br><br><br>
 
 ## License
 
