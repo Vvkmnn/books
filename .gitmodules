@@ -22,3 +22,6 @@
 [submodule "ProbabilisticPorgrammingAndBayesianMethods"]
 	path = ProbabilisticPorgrammingAndBayesianMethods
 	url = https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.git
+[submodule "ArtificialIntelligenceAModernApproach"]
+	path = ArtificialIntelligenceAModernApproach
+	url = https://github.com/aimacode/aima-python
