@@ -128,6 +128,15 @@ A clone of the [Data Science iPython Notebooks Repository](https://github.com/do
 <br><br><br><br>
 
 
+### [John Hopkins Coursera Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
+<img align="right" src="https://s3.amazonaws.com/coursera/specializations/jhudatascience/logo.png" width="150"  border="1" style="border-color: black"/>
+
+  Maintained By [Xing Su](https://github.com/sux13)
+
+I stumbled upon this excellent repository which summarizes the materials explored in [this John Hopkins Coursera specialization](https://www.coursera.org/specializations/jhu-data-science). I have not yet fully explored this repository, but it is easily the most thorough take on the content that I've personally discovered. 
+
+<br><br><br><br>
+
 ### [Torch Tutorials](https://github.com/torch/tutorials)
 <img align="right" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" width="150"  border="1" style="border-color: black"/>
 
