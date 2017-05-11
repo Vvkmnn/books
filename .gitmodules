@@ -25,3 +25,6 @@
 [submodule "ArtificialIntelligenceAModernApproach"]
 	path = ArtificialIntelligenceAModernApproach
 	url = https://github.com/aimacode/aima-python
+[submodule "JohnsHopkinsCourseraDataScience"]
+	path = JohnsHopkinsCourseraDataScience
+	url = git@github.com:sux13/DataScienceSpCourseNotes.git
