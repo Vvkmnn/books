@@ -31,3 +31,6 @@
 [submodule "TensorflowTutorials"]
 	path = TensorflowTutorials
 	url = https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials
+[submodule "RoboSchool"]
+	path = RoboSchool
+	url = https://github.com/openai/roboschool
