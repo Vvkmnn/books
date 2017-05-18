@@ -28,3 +28,6 @@
 [submodule "JohnsHopkinsCourseraDataScience"]
 	path = JohnsHopkinsCourseraDataScience
 	url = git@github.com:sux13/DataScienceSpCourseNotes.git
+[submodule "TensorflowTutorials"]
+	path = TensorflowTutorials
+	url = https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials
