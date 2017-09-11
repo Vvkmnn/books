@@ -1,9 +1,11 @@
 books
 ======
 
-These are a collection of books & resources I'm in the process of reading, intend on reading, or love reading again. 
+These are a collection of books & resources I'm in the process of reading, re-reading, or attempting to reading.
 
-All code included here is my own interpretation unless otherwise stated/linked, and should in no way reflect on the authors & works used. I am grateful to all these amazing people who took the time to publish such excellent materials; especially those who used open source standards. I have created this collection so they may can provide as much value to the next student as they did to me.
+All code included here is my own interpretation unless otherwise stated/linked, and should in no way reflect on the authors & works used. 
+
+I am grateful to all the amazing people who took the time to publish such excellent materials; especially those who used open source standards. I have created this collection so they may can provide as much value to the next student as they did to me.
 
 
 <br><br><br><br>
@@ -13,7 +15,7 @@ All code included here is my own interpretation unless otherwise stated/linked, 
 
   By Stuart Russell and Peter Norvig
 
-[The leading textbook in Artifical Intelligence](http://aima.cs.berkeley.edu). I was introduced to this text via the [Udacity AIND Program](https://www.udacity.com/ai) and everytime I open it I am fascinated and humbled. If there is one resource from this list I could whole heartedly recommend to anyone, it would be this one; no matter what you do, I guarantee there is something in this 1152 page tome that could help you approach it in a more logical way. It also comes in [multiple flavors](https://github.com/aimacode) for whatever language you're most comfortable with. 
+[The leading textbook in Artifical Intelligence](http://aima.cs.berkeley.edu). I was introduced to this text via the [Udacity AIND Program](https://www.udacity.com/ai) and everytime I open it I am fascinated and humbled. No matter what you do, I guarantee there is something in this 1152 page tome that could help you it smarter. It also comes in [multiple flavors](https://github.com/aimacode) for whatever language you're enjoy. 
 
 <br><br><br><br>
 ### [Automate The Boring Stuff with Python](https://github.com/Vvkmnn/books/tree/master/AutomateTheBoringStuffWithPython)
@@ -30,7 +32,7 @@ My journey through Al Sweigart's fun and straightforward take on some Python 3. 
 
   By Matthew A. Russell
 
-A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition). Available as a [book](http://bit.ly/135dHfs), a [website](http://MiningTheSocialWeb.com), and as a [virtual machine.](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix A - Virtual Machine Experience.html) Easily some of the most practical recipes for dealing with social data, and the basis for a lot of my scripts at my current job.
+A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition). Available as a [book](http://bit.ly/135dHfs), a [website](http://MiningTheSocialWeb.com), and as a [virtual machine.](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix A - Virtual Machine Experience.html) Easily some of the most practical recipes for dealing with social data, and the basis for a lot of my scripts for my work in Advertising.
 
 <br><br><br><br>
 
@@ -42,6 +44,13 @@ A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/
 An amazing [Gitbook](https://www.gitbook.com/) on [Julia](http://julialang.org/); a young but fascinating technical language built for scientific computing. It exists as a hybrid between OOP (Objected Oriented Programming) and FP (Functional Programming), which allows it "write like Python but run like C" thanks to an incredible number of [under-the-hood optimizations from leaders in the field](http://www.evanmiller.org/why-im-betting-on-julia.html). It suffers slightly from its novelty, especially with regard to package support and availablity of novice-level documenation (which is why many advocate against its use in production environment), but I fell in love with it as soon as I watched this [video of it in action](http://pyvideo.org/euroscipy-2014/keynote-crossing-language-barriers-with-julia-s.html), and I couldn't wait to get started. Big shout out to Chris for his amazing [repo](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) designed for "people who need to get a job done, not computer scientists".
 
 <br><br><br><br>
+
+### [An Introduction to Game Theory]()
+<img align="right" src="https://images-na.ssl-images-amazon.com/images/I/51r0QHUIMXL._SX370_BO1,204,203,200_.jpg" width="150" border="1" style="border-color: black"/>
+
+  By Martin J. Osborne 
+
+I'm not even going to pretend I'm smart enough to understand everything that is going on here, but goddamn it is fun to read. 
 
 ### [Think Bayes](https://github.com/Vvkmnn/books/tree/master/ThinkBayes)
 <img align="right" src="http://www.greenteapress.com/thinkbayes/think_bayes_cover_medium.png" width="150" border="1" style="border-color: black"/>
