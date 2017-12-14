@@ -185,7 +185,7 @@ A clone of the [Torch Tutorials](https://github.com/torch/tutorials) to better u
 <br><br><br><br>
 
 ### [Udacity Deep Learning](https://www.udacity.com)
-<img align="right" src="https://pbs.twimg.com/profile_images/703090165976162305/XU5nh5a9.jpg" width="150"  border="1" style="border-color: black"/>
+<img align="right" src="https://cdn.worldvectorlogo.com/logos/udacity.svg" width="150"  border="1" style="border-color: black"/>
 
   Maintained By Udacity
 
