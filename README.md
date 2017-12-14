@@ -53,6 +53,7 @@ An amazing [Gitbook](https://www.gitbook.com/) on [Julia](http://julialang.org/)
 
 I'm not even going to pretend I'm smart enough to understand everything that is going on here, but goddamn it is fun to read. 
 
+<br><br><br><br>
 
 ### [Clojure For The Brave And True](https://www.braveclojure.com/)
 <img align="right" src=" https://images-na.ssl-images-amazon.com/images/I/618QiC2CLcL._SX258_BO1,204,203,200_.jpg" width="150" border="1" style="border-color: black"/>
