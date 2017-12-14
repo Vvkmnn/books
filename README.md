@@ -18,7 +18,6 @@ I am grateful to all the amazing people who took the time to publish such excell
 
 <br><br><br><br>
 
-
 ### [Automate The Boring Stuff with Python](https://github.com/Vvkmnn/books/tree/master/AutomateTheBoringStuffWithPython)
 <img align="right" src="https://images-na.ssl-images-amazon.com/images/I/51f0jmofBCL._SX376_BO1,204,203,200_.jpg" width="150" border="1" style="border-color: black"/>
 
@@ -136,7 +135,6 @@ The hotly anticipated sequel by to [Practical Vim](https://pragprog.com/book/dnv
 
 <br><br><br><br>
 
-
 ### [The Open Source Data Science Masters](https://github.com/datasciencemasters/go)
 <img align="right" src="https://avatars3.githubusercontent.com/u/5228194?v=3&s=200" width="150" border="1" style="border-color: black"/>
 
@@ -145,7 +143,6 @@ The hotly anticipated sequel by to [Practical Vim](https://pragprog.com/book/dnv
 A hand made open-source curriculum for Data Science as designed by some of the best in the field. This is probably the single most important repository included in here, and I would highly recommend you start here if you haven't already gotten started with data science; it's where I did ([after the Coursera course from Andrew Ng blew my mind](https://www.coursera.org/learn/machine-learning)).
 
 <br><br><br><br>
-
 
 ### [Galvanize Data Science Primer](https://github.com/zipfian/data-science-primer)
 <img align="right" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/549197-45cfc0ff1f64116aceead7d4bdc1d6fc-medium_jpg.jpg?buster=1420650151" width="150" border="1" style="border-color: black"/>
@@ -156,7 +153,6 @@ An excellent collection of resources I recieved as part of my acceptance into th
 
 <br><br><br><br>
 
-
 ### [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 <img align="right" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif" width="150"  border="1" style="border-color: black"/>
 
@@ -165,7 +161,6 @@ An excellent collection of resources I recieved as part of my acceptance into th
 A clone of the [Data Science iPython Notebooks Repository](https://github.com/donnemartin/data-science-ipython-notebooks). A continually updated collection of iPython/Jupyter notebooks on every subject from scikit-learn to AWS. Chances are if it's related to data science, there's a beautifully maintained notebook about it somewhere in here.
 
 <br><br><br><br>
-
 
 ### [John Hopkins Coursera Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
 <img align="right" src="https://s3.amazonaws.com/coursera/specializations/jhudatascience/logo.png" width="150"  border="1" style="border-color: black"/>
