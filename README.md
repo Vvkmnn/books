@@ -18,6 +18,8 @@ I am grateful to all the amazing people who took the time to publish such excell
 [The leading textbook in Artifical Intelligence](http://aima.cs.berkeley.edu). I was introduced to this text via the [Udacity AIND Program](https://www.udacity.com/ai) and everytime I open it I am fascinated and humbled. No matter what you do, I guarantee there is something in this 1152 page tome that could help you it smarter. It also comes in [multiple flavors](https://github.com/aimacode) for whatever language you're enjoy. 
 
 <br><br><br><br>
+
+
 ### [Automate The Boring Stuff with Python](https://github.com/Vvkmnn/books/tree/master/AutomateTheBoringStuffWithPython)
 <img align="right" src="https://images-na.ssl-images-amazon.com/images/I/51f0jmofBCL._SX376_BO1,204,203,200_.jpg" width="150" border="1" style="border-color: black"/>
 
@@ -52,6 +54,16 @@ An amazing [Gitbook](https://www.gitbook.com/) on [Julia](http://julialang.org/)
 
 I'm not even going to pretend I'm smart enough to understand everything that is going on here, but goddamn it is fun to read. 
 
+
+### [Clojure For The Brave And True](https://www.braveclojure.com/)
+<img align="right" src=" https://images-na.ssl-images-amazon.com/images/I/618QiC2CLcL._SX258_BO1,204,203,200_.jpg" width="150" border="1" style="border-color: black"/>
+
+  By Daniel Higginbotham
+
+Clojure headfirst! I've been on a Functional Programming kick lately, and this book has been fuel to the fire. Clojure is one of the [best performing]() and [well paying]() languages on the market, and I'm keen to have a better understanding of it under my toolbelt. I only swum a bit before realizing that learning a [LISP}() while trying to grasp functional programming principles in an amazing production-optimized but functionally-impure playground is not the smartest idea. I have since resolved to learn the pure principles from Haskell, and revisit! As a side note, this book is probably one of the most fun programming books I've read so far. 
+
+<br><br><br><br>
+
 ### [Think Bayes](https://github.com/Vvkmnn/books/tree/master/ThinkBayes)
 <img align="right" src="http://www.greenteapress.com/thinkbayes/think_bayes_cover_medium.png" width="150" border="1" style="border-color: black"/>
 
@@ -84,7 +96,16 @@ An introductory book on  [F#](http://fsharp.org/) that comes [highly recommended
 
   By Luciano Ramalho
 
-If you [google 'Mastering Python'](http://lmgtfy.com/?q=mastering+python), I guarantee sooner or later you will run into this book. Heralded by many as one of the best end-to-end Python books around, I honestly cannot wait to get started with this book. Julia and R have become my personal favorites, but there is just no denying the ease of use, modularity, and [sheer popularity of Python (especially in regards to Data Science)](https://www.fastcompany.com/3030716/the-9-best-languages-for-crunching-data). I have borrowed the [actual author's](https://github.com/ramalho) [notebook repo](https://github.com/fluentpython/notebooks) to append with my own learning, and I intend to start on this as soon as I can.
+If you ['Mastering Python'](http://lmgtfy.com/?q=mastering+python), I guarantee sooner or later you will run into this book. Heralded by many as one of the best end-to-end Python books around, I honestly cannot wait to get started with this book. Julia and R have become my personal favorites, but there is just no denying the ease of use, modularity, and [sheer popularity of Python (especially in regards to Data Science)](https://www.fastcompany.com/3030716/the-9-best-languages-for-crunching-data). I have borrowed the [actual author's](https://github.com/ramalho) [notebook repo](https://github.com/fluentpython/notebooks) to append with my own learning, and I intend to start on this as soon as I can.
+
+<br><br><br><br>
+
+### [Haskell Programming from First Principles](http://haskellbook.com/)
+<img align="right" src="http://haskellbook.com/assets/img/book-cover-front.png" width="150" border="1" style="border-color: black"/>
+
+  By Christopher Allen & Julie Moronuki
+
+I want to learn functional programming. Haskell is a purely functional language. I've decided to learn Haskell via this book. Q.E.D.
 
 <br><br><br><br>
 

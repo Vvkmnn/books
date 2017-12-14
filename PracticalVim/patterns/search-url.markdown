@@ -1,3 +1,0 @@
-Search items: [http://vimdoc.net/search?q=/\\][s]
-...
-[s]: http://vimdoc.net/search?q=/\\
