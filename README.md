@@ -1,12 +1,11 @@
 books
 ======
 
-These are a collection of books & resources I'm in the process of reading, re-reading, or attempting to reading.
+These are a collection of books & resources I'm in the process of reading, re-reading, or attempting to read.
 
-All code included here is my own interpretation unless otherwise stated/linked, and should in no way reflect on the authors & works used. 
+All code included here is my own interpretation unless otherwise stated/linked, and should in no way reflect on the quality of the authors & works used. 
 
 I am grateful to all the amazing people who took the time to publish such excellent materials; especially those who used open source standards. I have created this collection so they may can provide as much value to the next student as they did to me.
-
 
 <br><br><br><br>
 
