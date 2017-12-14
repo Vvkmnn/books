@@ -102,7 +102,16 @@ I found out about this book on [Reddit!](https://www.reddit.com/r/MachineLearnin
 
   By Drew Neil
 
-A series of exercises following [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition). Basically a group of arcane commands that let you take advantage of one of the most powerful (and occasionally tempermental) text editors ever designed. I personally prefer using it via its [VimR](http://vimr.org/) incarnation, and I highly recommend it for macOS users. To be honest, I still use [Atom](https://atom.io/) whenever I can get away with it, but a friend of mine recommended at least a functional knowledge of it, for terminal only / server-side environments.
+A series of exercises following [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition). Basically a sane flow of arcane commands that let you take advantage of one of the most powerful (and occasionally tempermental) text editors ever designed. I personally prefer using it via it's [NeoVim](https://neovim.io/) incarnation, and I highly recommend it for macOS users. My experience with Vim so far has been learning to do just a little bit more every day. I know it sounds cheesy, because I've read it everywhere too, but Vim really will make you more effecient if you put up with it's mannerisms. This is the book (and [author](https://twitter.com/nelstrom)) that finally showed me how.
+
+<br><br><br><br>
+
+### [Modern Vim](http://vimcasts.org/blog/2017/05/working-title-modern-vim/)
+<img align="right" src="https://imagery.pragprog.com/products/538/modvim.jpg" width="150" border="1" style="border-color: black"/>
+
+  By Drew Neil
+
+The hotly anticipated sequel by to [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition), that is worth every cent of it's beta commands. People prefer to use Vim because of it's minimal CLI nature, but as someone who's used Atom, Sublime, Vscode, and other IDEs, you begin to miss certain power features and visual glitter that can brings coding a little closer to 20XX. This the book that takes that attempts to bridge the two worlds, and turn our text editor into an apex editor. 
 
 <br><br><br><br>
 
