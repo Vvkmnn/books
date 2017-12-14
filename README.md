@@ -127,7 +127,7 @@ A series of exercises following [Practical Vim](https://pragprog.com/book/dnvim2
 <br><br><br><br>
 
 ### [Modern Vim](http://vimcasts.org/blog/2017/05/working-title-modern-vim/)
-<img align="right" src="https://imagery.pragprog.com/products/538/modvim.jpg" width="150" border="1" style="border-color: black"/>
+<img align="right" src="https://imagery.pragprog.com/products/538/modvim.jpg?1509119416" width="150" border="1" style="border-color: black"/>
 
   By Drew Neil
 
