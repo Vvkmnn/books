@@ -63,6 +63,14 @@ Clojure headfirst! I've been on a Functional Programming kick lately, and this b
 
 <br><br><br><br>
 
+### [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+<img align="right" src="https://image.ceneostatic.pl/data/products/40044577/i-grokking-algorithms.jpg" width="150" border="1" style="border-color: black"/>
+
+  By Aditya Y. Bhargava
+
+A visual introduction to Algorithms! I look forward to working through this book.
+<br><br><br><br>
+
 ### [Think Bayes](https://github.com/Vvkmnn/books/tree/master/ThinkBayes)
 <img align="right" src="http://www.greenteapress.com/thinkbayes/think_bayes_cover_medium.png" width="150" border="1" style="border-color: black"/>
 

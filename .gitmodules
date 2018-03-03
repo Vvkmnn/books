@@ -34,3 +34,6 @@
 [submodule "RoboSchool"]
 	path = RoboSchool
 	url = https://github.com/openai/roboschool
+[submodule "GrokkingAlgorithms"]
+	path = GrokkingAlgorithms
+	url = https://github.com/egonSchiele/grokking_algorithms
