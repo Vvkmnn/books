@@ -37,7 +37,7 @@ A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/
 <br><br><br><br>
 
 ### [Learn Julia the Hard Way](https://scls.gitbooks.io/ljthw/content/)
-<img align="right" src="http://i.imgur.com/5LYGZ05.png" width="150" width="150" border="1" style="border-color: black"//>
+<img align="right" src="http://i.imgur.com/5LYGZ05.png" width="150" width="150" border="1" style="border-color: black"/>
 
 By Chris von Csefalvay
 
@@ -91,7 +91,7 @@ An interactive take on Allen Downey's excellent primer on Bayesian Statistics, u
 <br><br><br><br>
 
 ### [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
-<img align="right" src="http://joelgrus.com/images/dsfs.jpg" width="150" border="1" style="border-color: black" width="150" border="1" style="border-color: black"//>
+<img align="right" src="http://joelgrus.com/images/dsfs.jpg" width="150" border="1" style="border-color: black" width="150" border="1" style="border-color: black"/>
 
 By Joel Grus
 
@@ -100,7 +100,7 @@ A clone of supplemental materials for [Data Science from Scratch](https://github
 <br><br><br><br>
 
 ### [Programming F# 3.0](https://www.amazon.ca/Programming-F-3-0-Smith/dp/1449320295)
-<img align="right" src="http://it-ebooks.info/images/ebooks/3/programming_f_3.0.jpg" width="150" width="150" border="1" style="border-color: black"//>
+<img align="right" src="http://it-ebooks.info/images/ebooks/3/programming_f_3.0.jpg" width="150" width="150" border="1" style="border-color: black"/>
 
 By Chris Smith
 
@@ -109,7 +109,7 @@ An introductory book on  [F#](http://fsharp.org/) that comes [highly recommended
 <br><br><br><br>
 
 ### [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
-<img align="right" src="http://akamaicovers.oreilly.com/images/0636920032519/cat.gif" width="150" width="150" border="1" style="border-color: black"//>
+<img align="right" src="http://akamaicovers.oreilly.com/images/0636920032519/cat.gif" width="150" width="150" border="1" style="border-color: black"/>
 
 By Luciano Ramalho
 
