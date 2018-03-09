@@ -37,3 +37,6 @@
 [submodule "GrokkingAlgorithms"]
 	path = GrokkingAlgorithms
 	url = https://github.com/egonSchiele/grokking_algorithms
+[submodule "PureScriptByExample"]
+	path = PureScriptByExample
+	url = https://github.com/paf31/purescript-book
