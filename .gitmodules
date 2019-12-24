@@ -40,3 +40,9 @@
 [submodule "PureScriptByExample"]
 	path = PureScriptByExample
 	url = https://github.com/paf31/purescript-book
+[submodule "intermediatePython"]
+	path = intermediatePython
+	url = https://github.com/yasoob/intermediatePython.git
+[submodule "BuildYourOwnLisp"]
+	path = BuildYourOwnLisp
+	url = https://github.com/orangeduck/BuildYourOwnLisp.git
