@@ -36,6 +36,15 @@ A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/
 
 <br><br><br><br>
 
+### [Intermediate Python](https://github.com/yasoob/intermediatePython)
+<img align="right" src="https://s-media-cache-ak0.pinimg.com/236x/67/9d/14/679d14bee634bfbc7b442a66998df9a9.jpg" width="150" border="1" style="border-color: black"/>
+
+By Matthew A. Russell
+
+TBD
+
+<br><br><br><br>
+
 ### [Learn Julia the Hard Way](https://scls.gitbooks.io/ljthw/content/)
 <img align="right" src="http://i.imgur.com/5LYGZ05.png" width="150" width="150" border="1" style="border-color: black"/>
 
