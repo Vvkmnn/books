@@ -46,3 +46,6 @@
 [submodule "BuildYourOwnLisp"]
 	path = BuildYourOwnLisp
 	url = https://github.com/orangeduck/BuildYourOwnLisp.git
+[submodule "LearnCTheHardWay"]
+	path = LearnCTheHardWay
+	url = https://github.com/zedshaw/learn-c-the-hard-way-lectures
