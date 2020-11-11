@@ -43,6 +43,16 @@ By Matthew A. Russell
 
 TBD
 
+
+<br><br><br><br>
+
+### [Modern C](https://modernc.gforge.inria.fr/)
+<img align="right" src="https://images-na.ssl-images-amazon.com/images/I/71izWLQf4KL.jpg" width="150" border="1" style="border-color: black"/>
+
+By Jens Gustedt
+
+This is a beautiful book, and the fact the author has made it so [freely available](https://livebook.manning.com/book/modern-c/modern-c/) is truly a miracle of the internet. 
+
 <br><br><br><br>
 
 ### [Learn Julia the Hard Way](https://scls.gitbooks.io/ljthw/content/)
