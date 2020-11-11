@@ -1,0 +1,10 @@
+Videos
+.*.sw*
+*.pdf
+*.dSYM
+*.so
+*.o
+*.log
+*.db
+tags
+
