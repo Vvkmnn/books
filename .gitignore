@@ -1,6 +1,7 @@
 # macOS
-.icloud
-.mp4
+*.icloud
+*.mp4
+*.pdf
 
 ## Python
 # Byte-compiled / optimized / DLL files

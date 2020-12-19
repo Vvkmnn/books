@@ -1,15 +1,13 @@
-books
-======
+# books
 
-These are a collection of books & resources I'm in the process of reading, re-reading, or attempting to read.
+These are a collection of resources I'm reading, re-reading, or attempting to read. All code included here is my own interpretation unless otherwise stated/linked, and should in no way reflect on the quality of the authors & works used.
 
-All code included here is my own interpretation unless otherwise stated/linked, and should in no way reflect on the quality of the authors & works used.
-
-I am grateful to all the amazing people who took the time to publish such excellent materials; especially those who used open source standards. I have created this collection so they may can provide as much value to the next student as they did to me.
+I am grateful to all the amazing people who took the time to publish such excellent materials; especially ones using open source standards. I've created this collection so they can provide as much value to the next student as they did to me.
 
 <br><br><br><br>
 
 ### [Artifical Intelligence A Modern Approach](https://github.com/aimacode)
+
 <img align="right" src="http://aima.cs.berkeley.edu/cover.jpg" width="150" border="1" style="border-color: black"/>
 
 By Stuart Russell and Peter Norvig
@@ -19,6 +17,7 @@ By Stuart Russell and Peter Norvig
 <br><br><br><br>
 
 ### [Automate The Boring Stuff with Python](https://github.com/Vvkmnn/books/tree/master/AutomateTheBoringStuffWithPython)
+
 <img align="right" src="https://images-na.ssl-images-amazon.com/images/I/51f0jmofBCL._SX376_BO1,204,203,200_.jpg" width="150" border="1" style="border-color: black"/>
 
 By Allen Sweigart
@@ -28,6 +27,7 @@ My journey through Al Sweigart's fun and straightforward take on some Python 3. 
 <br><br><br><br>
 
 ### [Mining the Social Web (2nd Edition)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
+
 <img align="right" src="https://s-media-cache-ak0.pinimg.com/236x/67/9d/14/679d14bee634bfbc7b442a66998df9a9.jpg" width="150" border="1" style="border-color: black"/>
 
 By Matthew A. Russell
@@ -37,43 +37,56 @@ A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/
 <br><br><br><br>
 
 ### [Intermediate Python](https://github.com/yasoob/intermediatePython)
+
 <img align="right" src="https://s-media-cache-ak0.pinimg.com/236x/67/9d/14/679d14bee634bfbc7b442a66998df9a9.jpg" width="150" border="1" style="border-color: black"/>
 
-By Matthew A. Russell
+By Muhammad Yasoob Ullah Khalid
 
-TBD
-
+Finished `"hello world"`? How about some name scoping, generators, & functional paradigms?
 
 <br><br><br><br>
 
 ### [Modern C](https://modernc.gforge.inria.fr/)
-<img align="right" src="https://images-na.ssl-images-amazon.com/images/I/71izWLQf4KL.jpg" width="150" border="1" style="border-color: black"/>
 
-By Jens Gustedt
+<img align="right" src="https://images-na.ssl-images-amazon.com/images/i/71izwlqf4kl.jpg" width="150" border="1" style="border-color: black"/>
+by Jens Gustedt
 
-This is a beautiful book, and the fact the author has made it so [freely available](https://livebook.manning.com/book/modern-c/modern-c/) is truly a miracle of the internet. 
+This is a beautiful book, and the fact the author has made it so [freely available](https://livebook.manning.com/book/modern-c/modern-c/) is truly a miracle of the internet.
+
+<br><br><br><br>
+
+### [Learn C The Hard Way](https://modernc.gforge.inria.fr/)
+
+<img align="right" src="https://images-na.ssl-images-amazon.com/images/I/41QWCRvb4DL.jpg" width="150" border="1" style="border-color: black"/>
+
+by Zed Shaw
+
+Zed Shaw has made a career [teaching people how to code](https://shop.learncodethehardway.org/). His "Learn Code the Hard Way" set of books have brought in novices and experts alike, and while not everyone agrees with his methods, his comfortable delivery and clear familiarity are a great way to dive into an unfamiliar language.
 
 <br><br><br><br>
 
 ### [Learn Julia the Hard Way](https://scls.gitbooks.io/ljthw/content/)
+
 <img align="right" src="http://i.imgur.com/5LYGZ05.png" width="150" width="150" border="1" style="border-color: black"/>
 
 By Chris von Csefalvay
 
-An amazing [Gitbook](https://www.gitbook.com/) on [Julia](http://julialang.org/); a young but fascinating technical language built for scientific computing. It exists as a hybrid between OOP (Objected Oriented Programming) and FP (Functional Programming), which allows it "write like Python but run like C" thanks to an incredible number of [under-the-hood optimizations from leaders in the field](http://www.evanmiller.org/why-im-betting-on-julia.html). It suffers slightly from its novelty, especially with regard to package support and availablity of novice-level documenation (which is why many advocate against its use in production environment), but I fell in love with it as soon as I watched this [video of it in action](http://pyvideo.org/euroscipy-2014/keynote-crossing-language-barriers-with-julia-s.html), and I couldn't wait to get started. Big shout out to Chris for his amazing [repo](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) designed for "people who need to get a job done, not computer scientists".
+An amazing [Gitbook](https://www.gitbook.com/) on [Julia](http://julialang.org/); a young but fascinating technical language built for scientific computing. It exists as a hybrid between OOP (Objected Oriented Programming) and FP (Functional Programming), which allows it "write like Python but run like C" thanks to an incredible number of [under-the-hood optimizations from leaders in the field](http://www.evanmiller.org/why-im-betting-on-julia.html). It suffers slightly from its novelty, especially with regard to package support and availablity of novice-level documenation (which is why many advocate against its use in production environment), but I fell in love with it as soon as I watched this [video of it in action](http://pyvideo.org/euroscipy-2014/keynote-crossing-language-barriers-with-julia-s.html), and I couldn't wait to get started. Big shout out to Chris for his amazing [repo](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) designed for "people who need to get a job done, not computer scientists". (Not related to Mr. Shaw though)
 
 <br><br><br><br>
 
 ### [An Introduction to Game Theory](https://www.amazon.ca/Introduction-Game-Theory-Martin-Osborne/dp/0195128958/ref=sr_1_1?ie=UTF8&qid=1520561605&sr=8-1&keywords=an+introduction+to+game+theory)
+
 <img align="right" src="https://images-na.ssl-images-amazon.com/images/I/51r0QHUIMXL._SX370_BO1,204,203,200_.jpg" width="150" border="1" style="border-color: black"/>
 
 By Martin J. Osborne
 
-I'm not even going to pretend I'm smart enough to understand everything that is going on here, but goddamn it is fun to read.
+I'm not even going to pretend I'm smart enough to understand what is going on here, but goddamn are the examples fun to read.
 
 <br><br><br><br>
 
 ### [PureScript by Example](https://leanpub.com/purescript/read)
+
 <img align="right" src="https://images.gr-assets.com/books/1412050641l/23288390.jpg" width="150" border="1" style="border-color: black"/>
 
 By Phil Freeman
@@ -83,6 +96,7 @@ A book on [PureScript](http://www.purescript.org/) from the [guy who helped crea
 <br><br><br><br>
 
 ### [Clojure For The Brave And True](https://www.braveclojure.com/)
+
 <img align="right" src="https://images-na.ssl-images-amazon.com/images/I/618QiC2CLcL._SX258_BO1,204,203,200_.jpg" width="150" border="1" style="border-color: black"/>
 
 By Daniel Higginbotham
@@ -92,6 +106,7 @@ Clojure headfirst! I've been on a Functional Programming kick lately, and this b
 <br><br><br><br>
 
 ### [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+
 <img align="right" src="https://image.ceneostatic.pl/data/products/40044577/i-grokking-algorithms.jpg" width="150" border="1" style="border-color: black"/>
 
 By Aditya Y. Bhargava
@@ -101,6 +116,7 @@ A visual introduction to Algorithms! Fun little illustrations of popular algorit
 <br><br><br><br>
 
 ### [Think Bayes](https://github.com/Vvkmnn/books/tree/master/ThinkBayes)
+
 <img align="right" src="http://www.greenteapress.com/thinkbayes/think_bayes_cover_medium.png" width="150" border="1" style="border-color: black"/>
 
 By Allen Downey (Repurposed from Roger Labbe)
@@ -110,6 +126,7 @@ An interactive take on Allen Downey's excellent primer on Bayesian Statistics, u
 <br><br><br><br>
 
 ### [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
+
 <img align="right" src="http://joelgrus.com/images/dsfs.jpg" width="150" border="1" style="border-color: black" width="150" border="1" style="border-color: black"/>
 
 By Joel Grus
@@ -119,15 +136,17 @@ A clone of supplemental materials for [Data Science from Scratch](https://github
 <br><br><br><br>
 
 ### [Programming F# 3.0](https://www.amazon.ca/Programming-F-3-0-Smith/dp/1449320295)
+
 <img align="right" src="http://it-ebooks.info/images/ebooks/3/programming_f_3.0.jpg" width="150" width="150" border="1" style="border-color: black"/>
 
 By Chris Smith
 
-An introductory book on  [F#](http://fsharp.org/) that comes [highly recommended](https://www.quora.com/What-is-the-best-book-to-learn-F), and also provides a relatively friendly entry into the mysterious world of [functional programming](https://en.wikipedia.org/wiki/Functional_programming#Python) which a friend described to me as 'writing code like you write math'. The repo included here is merely a mirror of the publicly available scripts that follow along side the book, which I am still working through.
+An introductory book on [F#](http://fsharp.org/) that comes [highly recommended](https://www.quora.com/What-is-the-best-book-to-learn-F), and also provides a relatively friendly entry into the mysterious world of [functional programming](https://en.wikipedia.org/wiki/Functional_programming#Python) which a friend described to me as 'writing code like you write math'. The repo included here is merely a mirror of the publicly available scripts that follow along side the book, which I am still working through.
 
 <br><br><br><br>
 
 ### [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
+
 <img align="right" src="http://akamaicovers.oreilly.com/images/0636920032519/cat.gif" width="150" width="150" border="1" style="border-color: black"/>
 
 By Luciano Ramalho
@@ -137,15 +156,17 @@ If you ['Mastering Python'](http://lmgtfy.com/?q=mastering+python), I guarantee 
 <br><br><br><br>
 
 ### [Haskell Programming from First Principles](http://haskellbook.com/)
-<img align="right" src="http://haskellbook.com/assets/img/book-cover-front.png" width="150" border="1" style="border-color: black"/>
+
+<img align="right" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514024172l/37658436._SX318_.jpg" width="150" border="1" style="border-color: black"/>
 
 By Christopher Allen & Julie Moronuki
 
-I want to learn functional programming. Haskell is a purely functional language. I've decided to learn Haskell via this book. Q.E.D.
+Haskell is a novelty language that eschews OOP paradigms for a purely functional approach. Personally, as a non traditional computer science student with a background in data, functional programming immediately and intuitively seemed like a better way to write code. There are always pros and cons, but so long as Church-Turing holds true, the machine seems generally indifferent. This book is a holistic way to get started.
 
 <br><br><br><br>
 
 ### [TensorFlow for Machine Intelligence](https://github.com/backstopmedia/tensorflowbook)
+
 <img align="right" src="https://github.com/backstopmedia/tensorflowbook/raw/master/img/book_cover.jpg" width="150" border="1" style="border-color: black"/>
 
 By Sam Abrahams et al.
@@ -155,6 +176,7 @@ I found out about this book on [Reddit!](https://www.reddit.com/r/MachineLearnin
 <br><br><br><br>
 
 ### [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition)
+
 <img align="right" src="https://images-na.ssl-images-amazon.com/images/I/417%2BxcRYtLL._SX258_BO1,204,203,200_.jpg" width="150" border="1" style="border-color: black"/>
 
 By Drew Neil
@@ -164,7 +186,8 @@ A series of exercises following [Practical Vim](https://pragprog.com/book/dnvim2
 <br><br><br><br>
 
 ### [Modern Vim](http://vimcasts.org/blog/2017/05/working-title-modern-vim/)
-<img align="right" src="https://imagery.pragprog.com/products/538/modvim.jpg" width="150" border="1" style="border-color: black"/>
+
+<img align="right" src="https://pragprog.com/titles/modvim/modern-vim/modvim_hu6d5b8b63a4954cb696e89b39f929331b_441951_500x0_resize_q75_box.jpg" width="150" border="1" style="border-color: black"/>
 
 By Drew Neil
 
@@ -173,6 +196,7 @@ The hotly anticipated sequel by to [Practical Vim](https://pragprog.com/book/dnv
 <br><br><br><br>
 
 ### [The Open Source Data Science Masters](https://github.com/datasciencemasters/go)
+
 <img align="right" src="https://avatars3.githubusercontent.com/u/5228194?v=3&s=200" width="150" border="1" style="border-color: black"/>
 
 Maintained by Clare Corthell
@@ -182,6 +206,7 @@ A hand made open-source curriculum for Data Science as designed by some of the b
 <br><br><br><br>
 
 ### [Galvanize Data Science Primer](https://github.com/zipfian/data-science-primer)
+
 <img align="right" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/549197-45cfc0ff1f64116aceead7d4bdc1d6fc-medium_jpg.jpg?buster=1420650151" width="150" border="1" style="border-color: black"/>
 
 Maintained by Zipfian
@@ -191,6 +216,7 @@ An excellent collection of resources I recieved as part of my acceptance into th
 <br><br><br><br>
 
 ### [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+
 <img align="right" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif" width="150"  border="1" style="border-color: black"/>
 
 Maintained By Donne Martin
@@ -200,6 +226,7 @@ A clone of the [Data Science iPython Notebooks Repository](https://github.com/do
 <br><br><br><br>
 
 ### [John Hopkins Coursera Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
+
 <img align="right" src="https://s3.amazonaws.com/coursera/specializations/jhudatascience/logo.png" width="150"  border="1" style="border-color: black"/>
 
 Maintained By [Xing Su](https://github.com/sux13)
@@ -209,15 +236,17 @@ I stumbled upon this excellent repository which summarizes the materials explore
 <br><br><br><br>
 
 ### [Torch Tutorials](https://github.com/torch/tutorials)
+
 <img align="right" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Torch_2014_logo.png" width="150"  border="1" style="border-color: black"/>
 
 Maintained By Torch
 
-A clone of the [Torch Tutorials](https://github.com/torch/tutorials) to better understand Torch, one of the most trusted ML framework currently out there. It has the benefits of being built on [Lua](https://www.lua.org/), a procedural scripting language that can be [generally understood in 15 minutes](http://tylerneylon.com/a/learn-lua/).  I discovered this repo by checking out it's [cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet), and hope to to start converting these into [iTorch notebooks](https://github.com/facebook/iTorch) pretty soon.
+A clone of the [Torch Tutorials](https://github.com/torch/tutorials) to better understand Torch, one of the most trusted ML framework currently out there. It has the benefits of being built on [Lua](https://www.lua.org/), a procedural scripting language that can be [generally understood in 15 minutes](http://tylerneylon.com/a/learn-lua/). I discovered this repo by checking out it's [cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet), and hope to to start converting these into [iTorch notebooks](https://github.com/facebook/iTorch) pretty soon.
 
 <br><br><br><br>
 
 ### [Udacity Deep Learning](https://www.udacity.com)
+
 <img align="right" src="https://cdn.worldvectorlogo.com/logos/udacity.svg" width="150"  border="1" style="border-color: black"/>
 
 Maintained By Udacity
