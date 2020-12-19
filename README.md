@@ -38,7 +38,7 @@ A clone of [Mining the Social Web, 2nd Edition](https://github.com/ptwobrussell/
 
 ### [Intermediate Python](https://github.com/yasoob/intermediatePython)
 
-<img align="right" src="https://s-media-cache-ak0.pinimg.com/236x/67/9d/14/679d14bee634bfbc7b442a66998df9a9.jpg" width="150" border="1" style="border-color: black"/>
+<img align="right" src="https://olcovers2.blob.core.windows.net/coverswp/2017/03/Intermediate-Python-OpenLibra.gif" width="150" border="1" style="border-color: black"/>
 
 By Muhammad Yasoob Ullah Khalid
 
@@ -48,7 +48,7 @@ Finished `"hello world"`? How about some name scoping, generators, & functional 
 
 ### [Modern C](https://modernc.gforge.inria.fr/)
 
-<img align="right" src="https://images-na.ssl-images-amazon.com/images/i/71izwlqf4kl.jpg" width="150" border="1" style="border-color: black"/>
+<img align="right" src="https://images-na.ssl-images-amazon.com/images/I/71izWLQf4KL.jpg" width="150" border="1" style="border-color: black"/>
 by Jens Gustedt
 
 This is a beautiful book, and the fact the author has made it so [freely available](https://livebook.manning.com/book/modern-c/modern-c/) is truly a miracle of the internet.
@@ -67,7 +67,7 @@ Zed Shaw has made a career [teaching people how to code](https://shop.learncodet
 
 ### [Learn Julia the Hard Way](https://scls.gitbooks.io/ljthw/content/)
 
-<img align="right" src="http://i.imgur.com/5LYGZ05.png" width="150" width="150" border="1" style="border-color: black"/>
+<img align="right" src="http://i.imgur.com/5LYGZ05.png" width="150" border="1" style="border-color: black"/>
 
 By Chris von Csefalvay
 
